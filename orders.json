@@ -1,6 +1,6 @@
 {
   "S33528": {
-    "status": "Waiting for payment",
+    "status": "Preparation for transport",
     "statusClass": "pending",
     "sender": "Lukas Nyssen, Quintinsstraße 6, 55131 Mainz, Germany",
     "receiver": "Tarcsa Tamas, Lombkorona köz 26, 4405 Nyíregyháza, Ungarn",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "16.02.2026",
-    "deliveryDate": "20.02.2026",
+    "deliveryDate": "23.02.2026, 15:30 Hour",
     "pickup": {
       "street": "",
       "postal_code": "",
